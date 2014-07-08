@@ -1,7 +1,7 @@
 {
-  "name": "soap",
+  "name": "node-soap-sap",
   "version": "0.4.5",
-  "description": "A minimal node SOAP client",
+  "description": "A minimal node SOAP client specially made to interact for SAP Web Services",
   "engines": {
     "node": ">=0.8.0"
   },
